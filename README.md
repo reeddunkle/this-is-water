@@ -1,5 +1,3 @@
-# This is Water
-
 <table>
   <tr>
     <td rowspan="2"><img src="./assets/download-from-cloud-icon.png" height="50" width="50" /></a></td>
@@ -13,7 +11,8 @@
   </tr>
 </table>
 
-<!-- <blockquote> -->
+# This is Water
+
 <p>
   “Greetings parents and congratulations to Kenyon’s graduating class of 2005. There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says “Morning, boys. How’s the water?” And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes “What the hell is water?”
 </p>
